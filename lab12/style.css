@@ -14,12 +14,13 @@ body{
 }
 .container {
     background-color: #f2f3f4;
-    width: 100%;
+    width: 98%;
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
     line-height: 30px;
+    border: 4mm ridge rgb(254, 233, 211);
 }
 .logo{
   width: 150px;
