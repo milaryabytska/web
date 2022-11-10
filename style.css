@@ -1,0 +1,29 @@
+body{
+    background-color: #f3ecec;
+    font-family: "Montserrat", sans-serif;
+    vertical-align: baseline;
+    margin: 0;
+    padding: 0;
+}
+
+.image{
+    margin-left: 50px;
+  }
+
+  
+  .owner {
+    text-align: justify;
+}
+
+.list {
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #c6bebe;
+}
+
+.reviews {
+    align-items: center;
+    
+}
